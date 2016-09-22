@@ -1,4 +1,4 @@
 #Ingredients
 -chickpeas
--olive oil
+-olive 
 
