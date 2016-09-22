@@ -1,7 +1,7 @@
 # Ingredients
--tomatoes
--onions
--askjdl
--sdfsdf
+* tomatoes
+* onions
+* askjdl
+* sdfsdf
 # Instructions
--ksjfhkjdf
+* ksjfhkjdf
